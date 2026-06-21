@@ -2,7 +2,7 @@
 
 <img width="2812" height="1540" alt="Screenshot 2026-06-21 213218" src="https://github.com/user-attachments/assets/28f2628e-ffef-4c40-9cc7-87143a12f140" />
 <img width="2845" height="1543" alt="Screenshot 2026-06-21 211141" src="https://github.com/user-attachments/assets/c0080f9e-f502-49f6-a687-5a6bda4037ab" />
-
+vercel deploy link:https://vendor-payment-management-red.vercel.app/
 # StellarPay: Vendor Payment Management DApp
 
 StellarPay is a decentralized application (DApp) built on the Stellar Network using Soroban Smart Contracts. It enables administrators to register vendors, vendors to draft invoices, and payers to settle payment requests using native wrapped XLM. The frontend tracking keeps logs of transactions and fetches contract events in real-time.

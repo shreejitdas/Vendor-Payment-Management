@@ -1,3 +1,8 @@
+<img width="2843" height="1550" alt="Screenshot 2026-06-21 213142" src="https://github.com/user-attachments/assets/06d69ba4-d8b1-4c6d-a4b5-87ae994380fd" />
+
+<img width="2812" height="1540" alt="Screenshot 2026-06-21 213218" src="https://github.com/user-attachments/assets/28f2628e-ffef-4c40-9cc7-87143a12f140" />
+<img width="2845" height="1543" alt="Screenshot 2026-06-21 211141" src="https://github.com/user-attachments/assets/c0080f9e-f502-49f6-a687-5a6bda4037ab" />
+
 # StellarPay: Vendor Payment Management DApp
 
 StellarPay is a decentralized application (DApp) built on the Stellar Network using Soroban Smart Contracts. It enables administrators to register vendors, vendors to draft invoices, and payers to settle payment requests using native wrapped XLM. The frontend tracking keeps logs of transactions and fetches contract events in real-time.
@@ -128,7 +133,7 @@ Deploy your application to Vercel:
 ---
 
 ## Contract Addresses & Transactions Reference
-- **Contract Address**: `CCZ7V5MMCOAYACWPWW6QPCWSVMHQHUQWAQ4YMGC3MJEVIKLVOKPIOVYM`
+- **Contract Address**: `[CAE34K6UB3O6RA5XQNVXMOMIU3LY5XVW4Z47NRHEHVAKGSM46K2GNNN2](https://stellar.expert/explorer/testnet/contract/CAE34K6UB3O6RA5XQNVXMOMIU3LY5XVW4Z47NRHEHVAKGSM46K2GNNN2)`
 - **WASM Upload Transaction Hash**: `8911d2247b955e7e750a7fe80a393df4b647ec1ad7fbada28cff2990314ad630`
 - **Contract Deployment Transaction Hash**: `0d4724c0d81170ed39dfcd324c1e6b4c2b04280399bf6ad535192524dda422b4`
 - **Contract Initialization Transaction Hash**: `80405840a9148898b6cdf7e6d4cde6a78626e8dcb01b44ca7af837576c1597c3`

@@ -1,7 +1,8 @@
 <img width="2843" height="1550" alt="Screenshot 2026-06-21 213142" src="https://github.com/user-attachments/assets/06d69ba4-d8b1-4c6d-a4b5-87ae994380fd" />
 
 <img width="2812" height="1540" alt="Screenshot 2026-06-21 213218" src="https://github.com/user-attachments/assets/28f2628e-ffef-4c40-9cc7-87143a12f140" />
-<img width="2845" height="1543" alt="Screenshot 2026-06-21 211141" src="https://github.com/user-attachments/assets/c0080f9e-f502-49f6-a687-5a6bda4037ab" />
+<img width="2849" height="1524" alt="image" src="https://github.com/user-attachments/assets/f0d34cfa-02f0-4c3f-8870-d7e1965a3841" />
+
 vercel deploy link:https://vendor-payment-management-red.vercel.app/
 # StellarPay: Vendor Payment Management DApp
 
@@ -133,7 +134,7 @@ Deploy your application to Vercel:
 ---
 
 ## Contract Addresses & Transactions Reference
-- **Contract Address**: `[CAE34K6UB3O6RA5XQNVXMOMIU3LY5XVW4Z47NRHEHVAKGSM46K2GNNN2](https://stellar.expert/explorer/testnet/contract/CAE34K6UB3O6RA5XQNVXMOMIU3LY5XVW4Z47NRHEHVAKGSM46K2GNNN2)`
+- **Contract Address**: `https://stellar.expert/explorer/testnet/contract/CDG27EPYNJSMVAZODRO7EE4T7MODY4VHEYGREZDQY3N5LU5CSE5MNNBR`
 - **WASM Upload Transaction Hash**: `8911d2247b955e7e750a7fe80a393df4b647ec1ad7fbada28cff2990314ad630`
 - **Contract Deployment Transaction Hash**: `0d4724c0d81170ed39dfcd324c1e6b4c2b04280399bf6ad535192524dda422b4`
 - **Contract Initialization Transaction Hash**: `80405840a9148898b6cdf7e6d4cde6a78626e8dcb01b44ca7af837576c1597c3`

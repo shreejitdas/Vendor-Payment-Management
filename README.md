@@ -8,7 +8,6 @@
  - vercel deploy link:https://vendor-payment-management-red.vercel.app/
 
 ##  Contract Explorer
-
 - Stellar Expert link:https://stellar.expert/explorer/testnet/contract/CDHPLMRI3GOUIW4IHNRYCJM2UCJLIYNKCZ7Z5VVP2ILMN2L7AS3XENXM
 - Contract ID: CDHPLMRI3GOUIW4IHNRYCJM2UCJLIYNKCZ7Z5VVP2ILMN2L7AS3XENXM
 

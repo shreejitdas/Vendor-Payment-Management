@@ -1,9 +1,20 @@
-<img width="2843" height="1550" alt="Screenshot 2026-06-21 213142" src="https://github.com/user-attachments/assets/06d69ba4-d8b1-4c6d-a4b5-87ae994380fd" />
+<img width="2826" height="1522" alt="image" src="https://github.com/user-attachments/assets/e34d50bf-f047-47a4-867d-ec4e26a180a6" />
+<img width="2878" height="1561" alt="image" src="https://github.com/user-attachments/assets/6f66a0c5-844d-47e5-bd04-115284a48c7c" />
+<img width="2875" height="1548" alt="image" src="https://github.com/user-attachments/assets/7667536a-b1a2-43cc-8119-598124d28147" />
+## Live Demo 
 
-<img width="2812" height="1540" alt="Screenshot 2026-06-21 213218" src="https://github.com/user-attachments/assets/28f2628e-ffef-4c40-9cc7-87143a12f140" />
-<img width="2849" height="1524" alt="image" src="https://github.com/user-attachments/assets/f0d34cfa-02f0-4c3f-8870-d7e1965a3841" />
+- vercel deploy link:https://vendor-payment-management-red.vercel.app/
 
-vercel deploy link:https://vendor-payment-management-red.vercel.app/
+## Contract Explorer
+
+- Stellar Expert link:https://stellar.expert/explorer/testnet/contract/CDHPLMRI3GOUIW4IHNRYCJM2UCJLIYNKCZ7Z5VVP2ILMN2L7AS3XENXM
+- Contract ID: CDHPLMRI3GOUIW4IHNRYCJM2UCJLIYNKCZ7Z5VVP2ILMN2L7AS3XENXM
+
+
+## Freighter Wallet  address
+
+
+- Freighter Wallet ID: GCU6TCTAVO355DRF3KBPFUTEV5BVA6DFS4FVXREEJQWMP3HJ6ICYWC7U
 # StellarPay: Vendor Payment Management DApp
 
 StellarPay is a decentralized application (DApp) built on the Stellar Network using Soroban Smart Contracts. It enables administrators to register vendors, vendors to draft invoices, and payers to settle payment requests using native wrapped XLM. The frontend tracking keeps logs of transactions and fetches contract events in real-time.
